@@ -1,6 +1,6 @@
 # Mohammad Omar Waqar
 
-BS Artificial Intelligence student at FAST NUCES, with a focus on machine learning, embedded systems, and full-stack software development. I'm interested in understanding systems at a fundamental level, whether that means implementing a neural network from first principles or building a pipeline where software directly controls physical hardware. I'm expanding into deeper areas of AI including computer vision, robotics, and applied deep learning.
+BS Artificial Intelligence student at FAST NUCES, with a focus on machine learning, computer vision, and embedded intelligent systems. I'm interested in understanding systems at a fundamental level, whether that means implementing a neural network from first principles or building a pipeline where software directly controls physical hardware. I'm expanding into deeper areas of AI including deep learning, generative AI, natural language processing, and robotics.
 
 ## Areas of Interest
 
