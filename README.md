@@ -2,13 +2,11 @@
 
 BS Artificial Intelligence student at FAST NUCES, Islamabad.
 
-I'm drawn to understanding systems at a fundamental level rather than treating them as black boxes. That's shaped how I approach my work: implementing a neural network's forward pass and backpropagation by hand instead of calling a framework's `.fit()`, or writing the control logic that lets a laptop's gesture recognition safely command a real quadcopter's flight controller. I care about the layer beneath the abstraction — the math behind a model, the protocol behind an API call, the state machine behind a "simple" interaction.
-
-My work so far spans machine learning, computer vision, embedded systems, and full-stack development, built through coursework, personal projects, and collaborative work with classmates. Outside of implementation, I'm interested in the theoretical foundations that make these systems possible: how learning algorithms generalize, how distributed systems stay consistent, and how software is engineered to be reliable when it's controlling something physical.
+I care about understanding systems at a fundamental level rather than treating them as black boxes — implementing a neural network's backpropagation by hand instead of calling `.fit()`, or writing the safety logic that lets a laptop's gesture recognition command a real drone's flight controller. My work spans machine learning, computer vision, embedded systems, and full-stack development.
 
 ## Areas of Interest
 
-Machine Learning and Deep Learning · Neural Network Architectures · Computer Vision · Natural Language Processing and Large Language Models · Reinforcement Learning · Robotics and Control Systems · Data Structures and Algorithms · Operating Systems · Computer Networks · Database Systems · Distributed Systems · Software Engineering and System Design
+Machine Learning · Deep Learning · Computer Vision · Natural Language Processing · Robotics · Data Structures and Algorithms · Software Engineering
 
 ## Featured Projects
 
