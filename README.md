@@ -1,12 +1,14 @@
 # Mohammad Omar Waqar
 
-BS Artificial Intelligence student at FAST NUCES, Islamabad.
+BS Artificial Intelligence student at FAST NUCES, Islamabad, building at the intersection of machine learning, embedded systems, and full-stack development.
 
-I care about understanding systems at a fundamental level rather than treating them as black boxes — implementing a neural network's backpropagation by hand instead of calling `.fit()`, or writing the safety logic that lets a laptop's gesture recognition command a real drone's flight controller. My work spans machine learning, computer vision, embedded systems, and full-stack development.
+I've implemented a neural network from scratch in NumPy, built a computer vision pipeline that automatically generates movie trailers, and written the safety logic that lets a laptop's gesture recognition command a real drone's flight controller through a Raspberry Pi and Pixhawk. I care about the layer beneath the abstraction — I'd rather derive backpropagation by hand than call `.fit()`.
+
+I work mostly in Python for ML and computer vision, reaching for NumPy, YOLOv8, and OpenCV when the problem involves vision, C++ when it involves data structures or performance, and C# with ASP.NET Core when it involves the web.
 
 ## Areas of Interest
 
-Machine Learning · Deep Learning · Computer Vision · Natural Language Processing · Robotics · Data Structures and Algorithms · Software Engineering
+Machine Learning · Deep Learning · Computer Vision · Natural Language Processing · Robotics
 
 ## Featured Projects
 
