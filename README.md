@@ -1,25 +1,28 @@
 # Mohammad Omar Waqar
 
-BS Artificial Intelligence student at FAST NUCES, Islamabad, building at the intersection of machine learning, embedded systems, and full-stack development.
+Second-year BS Artificial Intelligence student at FAST NUCES, Islamabad.
 
-I've implemented a neural network from scratch in NumPy, built a computer vision pipeline that automatically generates movie trailers, and written the safety logic that lets a laptop's gesture recognition command a real drone's flight controller through a Raspberry Pi and Pixhawk. I care about the layer beneath the abstraction — I'd rather derive backpropagation by hand than call `.fit()`.
+Most of what I've built comes from wanting to see the inside of something rather than trust that it works: a neural network trained without a single framework call, a drone that responds to a hand gesture because a Raspberry Pi and a Pixhawk are talking to each other correctly, a video pipeline that scores footage the way a human editor might, minus the editor.
 
-I work mostly in Python for ML and computer vision, reaching for NumPy, YOLOv8, and OpenCV when the problem involves vision, C++ when it involves data structures or performance, and C# with ASP.NET Core when it involves the web.
+Python is where I spend most of my time — NumPy and OpenCV when the problem is visual, C++ when the problem is closer to the metal, C# and ASP.NET when the problem is a web app someone else has to use.
 
 ## Areas of Interest
 
-Machine Learning · Deep Learning · Computer Vision · Natural Language Processing · Robotics
+Machine Learning · Computer Vision · Deep Learning · Robotics · Natural Language Processing
 
-## Featured Projects
+## Projects
 
-| Project | Description |
-|---|---|
-| [Multi-Layer-Perceptron](https://github.com/omarwaqar77/Multi-Layer-Perceptron) | Neural network implemented from scratch in NumPy — 95.54% accuracy on MNIST |
-| [ai-trailer-generator](https://github.com/omarwaqar77/ai-trailer-generator) | End-to-end ML pipeline for automated movie trailer generation using YOLOv8, ResNet18, and BLIP |
-| [gesture-controlled-drone](https://github.com/omarwaqar77/gesture-controlled-drone) | Gesture-based quadcopter control system using MediaPipe, Raspberry Pi, and Pixhawk |
-| [GameSphere](https://github.com/omarwaqar77/GameSphere) | Full-stack gaming platform built with ASP.NET Core MVC and Entity Framework Core |
-| [IFAMDS](https://github.com/omarwaqar77/IFAMDS) | Forest fire monitoring simulation using custom-built data structures in C++ |
-| [rush-hour-taxi](https://github.com/omarwaqar77/rush-hour-taxi) | Real-time taxi delivery arcade game written entirely in x86 assembly |
+**[Multi-Layer-Perceptron](https://github.com/omarwaqar77/Multi-Layer-Perceptron)** — A neural network with no framework underneath it. Forward pass, backpropagation, and gradient descent written by hand in NumPy, trained on MNIST to 95.54% accuracy.
+
+**[ai-trailer-generator](https://github.com/omarwaqar77/ai-trailer-generator)** — Feeds raw video through YOLOv8 and ResNet18 to score which clips matter, then assembles them into a trailer with BLIP-generated captions layered on top.
+
+**[gesture-controlled-drone](https://github.com/omarwaqar77/gesture-controlled-drone)** — A laptop watches your hand through MediaPipe, decides what you meant, and sends that decision over the network to a Raspberry Pi flying a real quadcopter through a Pixhawk.
+
+**[GameSphere](https://github.com/omarwaqar77/GameSphere)** — A gaming platform built on ASP.NET Core MVC, C#, and Entity Framework Core.
+
+**[IFAMDS](https://github.com/omarwaqar77/IFAMDS)** — A forest fire monitoring simulation where every subsystem is deliberately built on a different data structure — trees, graphs, hash tables, queues — in C++.
+
+**[rush-hour-taxi](https://github.com/omarwaqar77/rush-hour-taxi)** — A real-time taxi delivery game with no engine underneath it, just x86 assembly and the Irvine32 library.
 
 ## Technical Skills
 
